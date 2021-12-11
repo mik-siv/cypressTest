@@ -1,0 +1,23 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mik-siv/cypressTest.git"
+  },
+  "author": "Mikhail Sivinskikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mik-siv/cypressTest/issues"
+  },
+  "homepage": "https://github.com/mik-siv/cypressTest#readme",
+  "dependencies": {
+    "cypress": "^9.1.1",
+    "faker": "^5.5.3"
+  }
+}
