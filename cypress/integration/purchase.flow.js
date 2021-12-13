@@ -2,7 +2,7 @@ import login from '../pages/login';
 import inventory from '../pages/inventory'
 import data from '../support/data';
 import helper from "../support/helper";
-import localisations from "../support/localisations";
+import localisations from "../support/localizations";
 import cart from "../pages/cart"
 import checkout from "../pages/checkout";
 import checkout2 from "../pages/checkoutSecondPage";

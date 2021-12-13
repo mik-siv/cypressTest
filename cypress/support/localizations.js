@@ -1,4 +1,4 @@
-const localisations = {
+const localizations = {
     addToCart: 'Add to cart',
     removeFromCart: 'Remove',
     //cart
@@ -26,4 +26,4 @@ const localisations = {
     backHomeBtn: 'Back Home',
 }
 
-export default {...localisations}
+export default {...localizations}

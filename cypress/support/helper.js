@@ -2,7 +2,7 @@ import cart from "../pages/cart";
 import inventory from "../pages/inventory";
 import login from "../pages/login";
 import data from "./data";
-import localisations from "./localisations";
+import localisations from "./localizations";
 
 const Faker = require('faker');
 
